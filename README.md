@@ -14,7 +14,7 @@ This first web page has much hidden knowledge in it!  What can you learn from th
 5. What does it mean when one of these things begins with **<!--** ?
 **it will make the picture a clickable link**
 6. What is the difference between the first and second "My Dog" in the **code**?
-**the first My dog is what the website will look like in the url while the second is the heading of the website**
+**the first My dog is what the website will look like in the tab while the second is the heading of the website**
 7. Where do you see the first "My Dog" in the **browser**?
 **I see the first My Dog as the heading of my browser**
 8. Why is the second "My Dog" **red** in the **browser**?
