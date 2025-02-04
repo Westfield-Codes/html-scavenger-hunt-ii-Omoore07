@@ -18,7 +18,7 @@ This first web page has much hidden knowledge in it!  What can you learn from th
 7. Where do you see the first "My Dog" in the **browser**?
 **I see the first My Dog as the heading of my browser**
 8. Why is the second "My Dog" **red** in the **browser**?
-**to tell the diffrence from the heading and paragraph**
+**beacase h1 is set toi red in styles.ccs**
 9. Can you **hide the head section** in the code? 
 **you can make it a comment by using <!- - ending it with-->**
 10. What do the **indentations** "mean"?|
