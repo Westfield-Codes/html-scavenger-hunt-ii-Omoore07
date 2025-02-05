@@ -4,5 +4,11 @@ html {
 }
 
 h1 {
-  color:red;
+  color:rgb(35, 219, 35);
+}
+h2 {
+  color:rgb(24, 53, 216);
+}
+body{
+  color:rgb(157, 16, 212);
 }
